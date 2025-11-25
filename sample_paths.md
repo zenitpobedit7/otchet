@@ -1,0 +1,2 @@
+- /mnt/data/озон.xlsx
+- /mnt/data/вб.xlsx
